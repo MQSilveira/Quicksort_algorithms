@@ -14,16 +14,21 @@ Neste repositório, você encontrará implementações da função de ordenaçã
 Cada pasta contém o código fonte da solução para o exercício.
 
 ## Como Usar
-1. Navegue até a pasta da linguagem desejada:
+
+1. Clone o repositório em seu computador:
+   ```bash
+   git clone https://github.com/MQSilveira/Quicksort_algorithms.git
+
+2. Navegue até a pasta da linguagem desejada:
    - **javascript**: `cd javascript`
    - **php**: `cd php`
    - **python**: `cd python`
 
-2. Abra o arquivo `quicksort` para visualizar a implementação da função.
+3. Abra o arquivo `quicksort` para visualizar a implementação da função.
 
-3. Certifique-se de ter a linguagem instalada em seu computador.
+4. Certifique-se de ter a linguagem instalada em seu computador.
 
-4. Execute o programa de exemplo ou integre a função QuickSort em seu próprio código, conforme necessário.
+5. Execute o programa de exemplo ou integre a função QuickSort em seu próprio código, conforme necessário.
 
    - **JavaScript**:
      ```bash
